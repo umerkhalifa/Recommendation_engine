@@ -1,0 +1,501 @@
+Professor GUID,Name,Research Interests,University Field
+ee1d5410-3fd8-444e-b847-b6d7b41137fc,Thomas Hill,"Photonics,Cosmology,Quantum Mechanics",Mathematics
+58b19a4d-e1c5-4127-b734-a000fd02975a,Benjamin Santiago,"Photonics,Quantum Mechanics",Computer Science
+39de56c4-3e41-4a05-950a-1928e507d317,Philip Friedman,"Photonics,Experimental Physics",Chemistry
+859cda70-c7ca-4d16-a968-bc6e8fbc456f,Joshua Thomas,"Nuclear Physics,Astrophysics,Quantum Mechanics",Mathematics
+86186f2f-9c0b-4c10-9ab1-7532887f2700,Thomas Heath,"Statistical Mechanics,Quantum Mechanics",Literature
+112d72ac-77b8-4e1c-94b1-9bbccfd8e81f,Jared Hunter,"Cosmology,Quantum Mechanics,Experimental Physics",Physics
+a51d771d-867f-4e76-baf9-f507687a319a,Felicia Burton,"Nuclear Physics,Theoretical Physics,Condensed Matter Physics",Physics
+6ad9ff8f-8120-4be5-9f08-9a6041921cc7,Ian Bailey,"Nuclear Physics,Cosmology,Experimental Physics",Economics
+c9db4a68-24a9-4d5d-adbf-d9a6da9656c7,Kimberly Ross,"Statistical Mechanics,Astrophysics,Experimental Physics",Physics
+5e218a16-2a95-4167-8d1f-bc5a68e4af05,Bradley Hayes,"Photonics,Condensed Matter Physics,Experimental Physics",Literature
+6fd447bb-220c-465b-a203-8ec3c1851d8f,Kathryn Horn MD,"Nuclear Physics,Statistical Mechanics,Cosmology",Mathematics
+fab4c92c-439e-4046-92a0-e319f9e1b164,Samuel Ibarra,"Cosmology,Theoretical Physics,Experimental Physics",Literature
+7f9ca0f4-98c2-4f4c-b01c-9be6d0cdc84d,Taylor Ferguson,"Photonics,Nuclear Physics,Statistical Mechanics",Engineering
+38132b9c-3efa-482a-8abf-51fd08dc892f,Jason Lawrence,"Particle Physics,Astrophysics",Economics
+9cbee0f1-e92a-4b2e-b5e0-1c6df2553118,Robert Nelson,"Condensed Matter Physics,Astrophysics",Computer Science
+ac06d772-34a5-41c7-9206-bc632e595fd8,Susan Scott,"Statistical Mechanics,Experimental Physics",Physics
+9c29ceed-1901-4b20-8dc2-aae09b0934fd,Miranda Peters,"Photonics,Nuclear Physics,Experimental Physics",Biology
+581842e2-1ea6-4a42-bcd8-c3a37e16429a,Nicole Mercado,"Photonics,Statistical Mechanics,Astrophysics",Physics
+2b68368f-82d3-48a3-9609-d25e5ebc080b,Adam Bowman,"Cosmology,Condensed Matter Physics,Astrophysics",History
+42c4dbe3-048c-4374-bfd0-74cef8101994,David Schmidt,"Nuclear Physics,Theoretical Physics,Particle Physics",Biology
+9885f0ad-b5f6-44e1-958b-5b0a54863dc3,Emma Rivera,"Condensed Matter Physics,Astrophysics,Quantum Mechanics",Mathematics
+9977e2ce-035b-441c-9c15-9ed0301fb3d9,Angela Raymond,"Nuclear Physics,Cosmology",Psychology
+f48cbbb5-2ddd-47c3-9828-e9041a73f314,Joshua Valentine,"Photonics,Statistical Mechanics,Theoretical Physics",Computer Science
+86723974-1bb9-45e2-9068-bd1ac0e8da9a,Melissa King,"Nuclear Physics,Quantum Mechanics,Experimental Physics",History
+8a43c86d-4f7d-41f2-835d-06175d1d5414,Jillian Farrell,"Nuclear Physics,Experimental Physics",Computer Science
+3c6ea4ec-492f-4fee-9b2c-edc55bfc78f1,Casey Fletcher,"Nuclear Physics,Statistical Mechanics,Cosmology",Biology
+ed618ed7-b0ad-4a56-b886-3aa26c518b38,Gregory Guerra,"Condensed Matter Physics,Astrophysics,Experimental Physics",Physics
+acd0ab2a-759f-4d95-a282-e56b937ff7c4,Michael Hickman,"Nuclear Physics,Theoretical Physics",History
+77d071ea-d6cd-4408-a657-bd383109dcec,Emily Butler,"Photonics,Statistical Mechanics,Quantum Mechanics",Economics
+4ab27e80-70bf-4c46-9a7a-674f040e1c53,William Miller,"Photonics,Particle Physics",Biology
+48824078-29d9-4735-a169-ef69c4ce0a59,James Anderson,"Nuclear Physics,Theoretical Physics,Particle Physics",Engineering
+633f28a0-921e-435f-9a40-0bb156fb894c,David Turner,"Nuclear Physics,Theoretical Physics,Quantum Mechanics",Computer Science
+7f497349-9e7f-478d-b2c9-d4d161383a00,Jessica Marquez,"Nuclear Physics,Cosmology,Quantum Mechanics",Mathematics
+b4aa684b-55e2-4d23-b2d2-58b4698e19d0,Erin Lewis,"Nuclear Physics,Condensed Matter Physics",Literature
+e03210ef-0959-431f-b167-765a3bde4acc,Shannon Jackson,"Condensed Matter Physics,Astrophysics,Quantum Mechanics",Psychology
+d0b5bdfc-8767-43c5-b4f4-712c555d21b3,Heather Romero,"Statistical Mechanics,Particle Physics,Experimental Physics",Biology
+b131d5db-70be-496a-a0d4-423e67a84de1,Robert Allen,"Particle Physics,Statistical Mechanics,Astrophysics",Biology
+9dfbbd56-e7f2-4a2b-a80f-583ed5fc077b,Jacob Lopez,"Photonics,Astrophysics",Computer Science
+33bdecf7-83d9-48e8-9028-59f6c011d9a2,Robin Hill,"Photonics,Theoretical Physics,Astrophysics",Mathematics
+ec6f17dd-8206-4be4-849f-0456465ef796,John Andrews,"Cosmology,Condensed Matter Physics,Quantum Mechanics",Literature
+05e10f23-7eca-4bf2-9aec-efef5d6bd866,Christian Stewart,"Cosmology,Theoretical Physics",Biology
+5a5070a4-e519-45c9-a901-a139f92b6bc2,Deborah Fields,"Theoretical Physics,Condensed Matter Physics",Computer Science
+7adc73fd-10b8-413a-b3aa-ec0ec3bcddea,Willie Thomas,"Statistical Mechanics,Theoretical Physics,Quantum Mechanics",Economics
+22b2e955-5173-45d3-9b97-d2682e6bab1b,Mary Bradley,"Quantum Mechanics,Experimental Physics",Engineering
+11370800-e768-493b-93f7-28c09d511b9f,Justin Watson,"Statistical Mechanics,Theoretical Physics",Physics
+ace43e0b-20e0-4b48-96f0-54c827054a32,Juan Stevens,"Statistical Mechanics,Cosmology",Biology
+3104dea1-3022-4fa6-9a28-e0f0f62ae053,Carl Sanchez,"Cosmology,Theoretical Physics",Engineering
+76e6389b-416a-488e-acfc-b5165a7fc5ab,Alexa Obrien,"Photonics,Theoretical Physics,Quantum Mechanics",Psychology
+6b1aa507-c272-4e1a-8079-11320afa9310,Pamela Perkins,"Statistical Mechanics,Condensed Matter Physics,Experimental Physics",Biology
+aa9784f5-f77c-4b24-95ee-070c8e17ab26,Barbara Martin,"Photonics,Condensed Matter Physics",Psychology
+44560b3d-0f89-4cc1-85a7-a660f5cd7ae6,Dwayne Branch,"Biopsychology,Social Psychology,Clinical Psychology",Biology
+2dcd859c-9c81-40f8-a2df-89471cfa3e85,Heather Swanson,"Clinical Psychology,Developmental Psychology,Experimental Psychology",Literature
+31f24e80-4e95-4bf8-95ed-08a38fc3cfff,Tammy Miller,"Cognitive Psychology,Forensic Psychology",Physics
+4855d90e-b29a-4231-83d2-422e39b52581,Tracie Davis,"Clinical Psychology,Psychometrics,Health Psychology",Chemistry
+cc3a9c76-572a-4ddc-b107-d98a6ac98b8e,Joyce Williams,"Clinical Psychology,Developmental Psychology",Physics
+9ea5db7b-be75-4dab-9bf4-c1fc03925263,Deborah Perez,"Biopsychology,Personality Psychology,Health Psychology",Economics
+1ee6dc58-785c-430d-9618-b694cdfa214f,Matthew Spencer,"Experimental Psychology,Health Psychology",Computer Science
+cb032d90-6418-4b10-9df1-336fae8df1fa,Mark Bauer,"Biopsychology,Cognitive Psychology,Psychometrics",Economics
+31485536-32c1-418d-9307-76bf76ba6df9,Jacob James,"Psychometrics,Health Psychology",Literature
+9c4ca841-b787-4c22-a6ed-c53f1905479b,Gary Roberts,"Biopsychology,Personality Psychology,Psychometrics",Chemistry
+33aedacc-f838-4bc1-9302-8488e199c72d,Colin Snyder,"Clinical Psychology,Cognitive Psychology,Health Psychology",Computer Science
+db7d2c62-423b-43eb-9307-06e88a73fb96,Thomas Harper,"Clinical Psychology,Personality Psychology,Health Psychology",Chemistry
+c6b47c20-e11d-48c9-944d-d0fada8d4823,Catherine Valdez,"Biopsychology,Health Psychology",Biology
+a395c2e4-b16e-4af9-8348-8199a2f04046,Michael Vega,"Cognitive Psychology,Health Psychology,Psychometrics",History
+d2899466-d3a0-4e11-8c2a-e30e3b1fbad8,Sara Stewart,"Biopsychology,Personality Psychology",Physics
+30250b98-8bc5-4f9f-9567-165b8e64525b,Laura Nichols,"Clinical Psychology,Personality Psychology,Forensic Psychology",Computer Science
+fa6ad87e-df32-4dd2-8d0b-f06f57f40289,Jose Lopez,"Experimental Psychology,Cognitive Psychology,Social Psychology",Computer Science
+43f8cca4-9777-43f0-9c63-2d9781bc4207,Shannon Thompson,"Experimental Psychology,Developmental Psychology,Forensic Psychology",Economics
+378521ef-13f4-4312-8709-0ab87551a658,Gerald Williams,"Biopsychology,Experimental Psychology,Forensic Psychology",Physics
+4a779f37-d38d-45a8-99aa-0186a2cc6e45,Alyssa Barr,"Developmental Psychology,Forensic Psychology",History
+9253586d-3cdc-42c9-95d4-c1490588173c,Katherine Waters,"Biopsychology,Cognitive Psychology,Health Psychology",Literature
+90802f92-2e4d-4add-ad97-f21414f07db9,Haley Shelton,"Cognitive Psychology,Health Psychology,Forensic Psychology",Physics
+e8c49eb6-1034-4c95-98da-da9f516deb87,Matthew Spencer,"Experimental Psychology,Cognitive Psychology,Social Psychology",History
+92a0f21c-cf41-4e5a-8de6-e498d86c037a,Keith Burgess,"Cognitive Psychology,Social Psychology,Psychometrics",Economics
+d169de1a-99ec-4e31-8404-38013a254ae0,Mitchell Robinson,"Social Psychology,Forensic Psychology",Economics
+439d1d94-8ff1-47b2-b043-4d21ed19c3b6,Jessica Lara,"Cognitive Psychology,Developmental Psychology",Psychology
+a8415efe-46b1-4bb9-a95d-8663137bd10d,Fred Strickland,"Biopsychology,Cognitive Psychology,Clinical Psychology",Physics
+69892d49-cf79-403d-8edb-506f48d2a51b,Kevin Riley,"Clinical Psychology,Social Psychology,Forensic Psychology",Mathematics
+d05ac521-2c5e-4d34-bdce-6820107833e6,Amanda James,"Personality Psychology,Social Psychology,Forensic Psychology",Physics
+57cc6178-f797-46b7-b279-48dd0da4af7f,Jacob Parker,"Social Psychology,Personality Psychology,Health Psychology",Physics
+b6ec0a3a-fc06-4946-b4b3-7c367225fc72,Lance Estrada,"Clinical Psychology,Personality Psychology",Psychology
+4575bd84-01e9-41d6-a1c8-f71ad29451c9,Kevin Barker,"Social Psychology,Cognitive Psychology,Health Psychology",Chemistry
+d7894648-4c67-4c1a-9cf4-f7618b597ed2,Perry Dunlap,"Psychometrics,Developmental Psychology,Social Psychology",Physics
+75994f8b-0b15-4e9c-a6d3-25febae9db60,Sydney Price,"Clinical Psychology,Developmental Psychology",Literature
+e355104e-a266-4c06-b0db-adebf3a7ee38,Tamara Adams,"Clinical Psychology,Psychometrics,Forensic Psychology",History
+20638006-7009-40ef-9fb7-6291ede4dfa8,Danielle Fox,"Clinical Psychology,Personality Psychology,Psychometrics",Literature
+4553547e-8beb-4d6d-9b31-54bf3647fa38,Valerie Arnold,"Biopsychology,Personality Psychology,Health Psychology",Literature
+3dffe2c5-0907-45b0-b5db-2e414764d1b3,Jeffrey Schultz,"Personality Psychology,Social Psychology,Psychometrics",Biology
+49dd9bf8-8a2a-4e6b-941a-67ef4145faf1,Wendy Allen,"Biopsychology,Cognitive Psychology,Developmental Psychology",Physics
+f04d8819-865e-44d8-8a14-d18aa06d240c,Sarah Browning,"Biopsychology,Developmental Psychology,Forensic Psychology",Engineering
+b5ecac0a-e15a-4f4b-87da-13123b8dd573,Dawn Scott,"Experimental Psychology,Psychometrics,Health Psychology",Chemistry
+bd5e455e-c98d-4b80-af33-cc7627f254c4,David Simmons,"Biopsychology,Social Psychology,Clinical Psychology",Psychology
+3d08cb22-a921-42c2-af65-05f98d900c0b,Jesse Ruiz,"Psychometrics,Forensic Psychology",History
+6890b60d-3577-45b0-b944-e3a0b469521f,Harry Carter,"Biopsychology,Psychometrics,Social Psychology",Computer Science
+b4babe2b-f4cd-40ee-a1e2-bb9524fca43e,Nathan Watson,"Experimental Psychology,Social Psychology,Health Psychology",Physics
+1edc9131-ad67-4d75-be67-172222fcd679,Pamela Johnson,"Biopsychology,Psychometrics,Experimental Psychology",Psychology
+4ec7369c-4167-409f-a11d-66b71596fad1,Laura Martin,"Biopsychology,Cognitive Psychology,Experimental Psychology",Economics
+8ac62b54-832a-4f56-a868-187ba368719e,Jacqueline Mack,"Cognitive Psychology,Health Psychology,Personality Psychology",Literature
+ffb104c5-7d39-4494-afbc-c6e69474a45e,Darren Ellis,"Experimental Psychology,Developmental Psychology,Forensic Psychology",Psychology
+63a72134-8b7d-40a3-8a7a-43f9d40a6b65,Timothy White,"Biopsychology,Social Psychology,Forensic Psychology",Economics
+f335bcda-e4de-4d10-9c68-f76bbd0e6968,Thomas Ashley,"Statistics,Number Theory",Biology
+dbb41e9a-2eb0-44ed-8a73-a9a2b152ba76,Christopher Williams,"Differential Equations,Calculus,Topology",Literature
+22719300-5208-496b-bccc-32e845ab6a2f,Dr. Bradley Miller,"Calculus,Applied Mathematics,Mathematical Physics",Mathematics
+7eab2f18-7946-40ba-8401-90ffce297f0a,Frances Farrell,"Mathematical Physics,Applied Mathematics,Algebra",Mathematics
+5acf19d1-de99-4ee5-a00f-d50f80dbeb57,Kathleen Rich,"Topology,Mathematical Physics,Geometry",Biology
+efc4cf7f-3865-4a98-a075-b4e96b870c75,Shawn Thomas,"Calculus,Mathematical Physics,Probability",Chemistry
+34e795ac-e68e-4a30-a26d-a54a5b56e3d6,Stephanie Perez,"Statistics,Algebra",Biology
+1c1f6d27-44c8-4e23-97b1-07a124d67c56,Kyle Diaz,"Probability,Geometry",Physics
+f3e8aaa1-d470-44fc-865f-ab81a671b8b2,Michele Reyes,"Calculus,Topology,Probability",History
+440bc509-1966-43cf-b6fc-7c47d65aa03c,Daniel Morgan,"Statistics,Geometry",Engineering
+54e572c5-d00b-4cbf-963a-eced3e5adb6f,Walter Miller,"Differential Equations,Number Theory,Algebra",Physics
+4ced50be-3220-4e08-9e7f-5a3be2e9cdbd,Ian Russell,"Applied Mathematics,Geometry",Physics
+75168b4e-8efb-406a-973d-88485efa5302,Nicole Barnes,"Number Theory,Algebra,Topology",History
+cfd6d5ec-231b-445d-b611-bef575774785,Nicholas Mitchell,"Calculus,Algebra,Probability",Chemistry
+55ddead0-54ca-48ba-967c-0aa5a4abe3ad,Andres Brown,"Applied Mathematics,Number Theory,Topology",History
+dd092b1c-c008-4c49-854c-97476b60484e,Kevin Payne,"Statistics,Algebra",Chemistry
+831a06f3-7890-4d32-bf3a-0035fc077892,Sarah Fry,"Applied Mathematics,Mathematical Physics,Topology",Computer Science
+9f950e97-bc63-400f-86ba-7bfcf3459d30,Blake Reese,"Statistics,Calculus",Chemistry
+87a913ae-e0fc-4c24-b8df-1c3a8dbe9c1e,Zachary Newton,"Statistics,Probability",Biology
+068ba2a4-a6ff-4059-ba0a-719dae9756ab,Dr. Amanda Garcia PhD,"Algebra,Geometry",Literature
+0be3ce9a-971b-431f-899b-2f3540cb614e,Carolyn Norman,"Statistics,Probability,Mathematical Physics",Literature
+410ccd7a-98b9-471e-a154-d05f957f148b,Michael Armstrong,"Statistics,Calculus,Mathematical Physics",Mathematics
+c7c2e5aa-3a57-422a-ae53-249137b55716,Ana Decker,"Mathematical Physics,Calculus,Algebra",Physics
+ab709bdd-847a-4ffd-a73f-9e0eef291179,Shannon Kramer,"Differential Equations,Statistics,Geometry",Mathematics
+c0dfd1d8-a91f-45da-9f24-b547a6ab07da,Jesus Griffin,"Topology,Geometry",Psychology
+40290549-ff9a-4e8d-8b37-d7d3620fb424,Frank Taylor,"Calculus,Applied Mathematics,Number Theory",Chemistry
+e46f882a-7865-47d6-be82-6920eb2279c4,Edward Davis,"Mathematical Physics,Topology,Algebra",Physics
+a3d298b5-9449-48de-8497-cecb69fb30f8,Carrie Cross,"Calculus,Number Theory,Mathematical Physics",Engineering
+deefe27b-81ac-43be-8fef-eda662bbb5dd,John Johnson,"Topology,Mathematical Physics,Geometry",Chemistry
+700219f7-a778-4c7a-8840-358918562229,Benjamin Schmitt,"Calculus,Algebra",Engineering
+2139e54c-c34d-49b1-9f1f-7e14e3d86772,Samantha Thomas,"Differential Equations,Statistics,Geometry",Economics
+ee517e44-7b64-4554-8188-ee5dc321a932,Allison Garcia,"Statistics,Mathematical Physics",Psychology
+29e30485-671a-49fc-afde-661e21d933a5,Dr. Evelyn Mccann MD,"Differential Equations,Calculus,Probability",Literature
+39f4256e-51ef-445c-a0bc-8b1afbdac8a8,Robert Grimes,"Calculus,Mathematical Physics,Geometry",Biology
+4f093324-18b9-4a4f-9097-0998d1794ae5,Brandy Cox MD,"Probability,Number Theory,Mathematical Physics",History
+d6e8d62e-778c-4373-8165-4b74b0781087,Tiffany Adams,"Differential Equations,Probability",Chemistry
+4077bfa4-105e-46ef-9361-727200674585,Jason Mclaughlin,"Applied Mathematics,Number Theory",Economics
+b08c4c9d-5b88-408c-acef-d8e02d826c96,Heather Jones,"Statistics,Probability,Number Theory",Mathematics
+abc8cd83-c345-41a5-82f3-6722fb60d9e4,Julie Morgan,"Calculus,Topology,Geometry",History
+764b8f5f-1373-4162-8bca-696a9bc93946,Thomas Hawkins,"Differential Equations,Applied Mathematics,Mathematical Physics",Literature
+e928d715-b233-4740-9734-24952b59f82c,Zachary Parks,"Differential Equations,Applied Mathematics,Geometry",Biology
+b3379637-3e72-4be1-84b1-07f1e990ba73,Sabrina Brown,"Number Theory,Mathematical Physics",Biology
+ca31c663-2e28-4192-9ae2-09d7b37965e2,Melissa Wilson,"Calculus,Mathematical Physics,Probability",Biology
+356df8fe-def8-49b7-9ac4-31d2f5c45d1c,Mr. George Johnson Jr.,"Differential Equations,Calculus,Statistics",Literature
+753fe6c2-e5e9-4c92-ae5b-21fec0293507,Austin Sweeney,"Differential Equations,Probability,Number Theory",Economics
+c6747e61-22de-4169-91bc-acabfd121b21,Victor Boyd,"Differential Equations,Statistics,Applied Mathematics",History
+2140f3dc-ae85-4a85-a8b3-5583505b4a51,Robert Holder,"Differential Equations,Statistics,Geometry",History
+b634a387-b169-4f14-b7a2-c228787c7324,Katelyn Garner,"Statistics,Probability,Topology",Biology
+b3a899c1-dc88-4e3d-ace8-246ab7c37b5b,John Aguilar,"Probability,Mathematical Physics",Chemistry
+c53ca99e-ec26-4a43-906d-f7cbfe191823,Rachel Lewis,"Differential Equations,Probability,Number Theory",Mathematics
+de9922e1-a6a9-4f05-84ba-1ee651398ced,Pamela Mcmillan,"Mechanical Engineering,Biomedical Engineering,Chemical Engineering",Physics
+0ee72ae9-96ff-4915-a03b-60bce0c425d9,Melissa Martin,"Civil Engineering,Aerospace Engineering,Electrical Engineering",Mathematics
+094bea7b-0575-4570-a105-4c7b0052e0ac,Andrea Gonzales,"Biomedical Engineering,Environmental Engineering,Chemical Engineering",Chemistry
+3de65931-266f-4f31-9baf-9ac44b0233c4,Timothy Ramsey,"Mechanical Engineering,Biomedical Engineering,Chemical Engineering",Physics
+d4329a03-c37b-405c-bd98-0e36df1ea5e0,Kayla Howard,"Mechanical Engineering,Software Engineering,Systems Engineering",Chemistry
+3ff1f412-5c81-43bc-9e8b-7832b1b93550,Daniel Dickson,"Mechanical Engineering,Environmental Engineering,Chemical Engineering",Psychology
+5b4c1470-6eac-4631-a921-78ef26ca30bf,Natalie Moss,"Software Engineering,Aerospace Engineering,Chemical Engineering",Psychology
+6224d514-4cb2-4090-adb3-adccd918f766,Mr. John Alvarado,"Mechanical Engineering,Industrial Engineering,Electrical Engineering",Engineering
+39d33087-a3c0-4475-bce7-3a2f43a5887b,Jacob Freeman,"Mechanical Engineering,Industrial Engineering",Physics
+ef5e342c-63bc-4d02-ae70-f52c0d2c29c1,Bethany Wood,"Biomedical Engineering,Chemical Engineering",Physics
+08252bb4-cd03-46f4-9e1a-72a99f94b98d,Joshua Leonard,"Civil Engineering,Systems Engineering,Chemical Engineering",Engineering
+163508c2-acc4-4ae1-a874-1eb38c51de0e,Elizabeth Watson,"Mechanical Engineering,Industrial Engineering",Psychology
+c47731e2-0b89-42cf-9103-ecc4b3fd4084,Keith Bennett,"Industrial Engineering,Electrical Engineering",Engineering
+a1e32024-a1f0-4ce2-81a9-c7b972ccc127,Anthony Hall,"Software Engineering,Electrical Engineering,Chemical Engineering",Economics
+aa36797a-316c-4653-8c55-a41efa257e84,Alicia Farley,"Biomedical Engineering,Chemical Engineering",Physics
+fc7fa23b-8361-4830-acd7-932bee1e3d56,Elizabeth Campbell,"Aerospace Engineering,Biomedical Engineering,Industrial Engineering",Mathematics
+2b881c09-fb17-48c3-9c0c-a81e63cf7032,Kelly Galloway,"Mechanical Engineering,Aerospace Engineering,Electrical Engineering",Biology
+10b75c19-1461-469f-81fa-49464c91ec78,Steven Caldwell,"Industrial Engineering,Electrical Engineering,Chemical Engineering",Biology
+eb9cc408-a3b8-4068-85cc-c3f7e3d454c1,Robert Long,"Software Engineering,Biomedical Engineering,Chemical Engineering",Computer Science
+00cd14b4-f221-4601-afcb-4a944cd020f5,Jennifer Wilson,"Industrial Engineering,Biomedical Engineering,Chemical Engineering",Psychology
+40a16f1d-6b0f-4202-871f-c0740824021b,Casey Davenport,"Mechanical Engineering,Biomedical Engineering,Systems Engineering",Chemistry
+ef1f2ccf-b2a1-4968-8839-b301f683fd4d,Rebecca Rivera,"Civil Engineering,Software Engineering,Electrical Engineering",Psychology
+fc072d40-2ac1-4293-b6c3-5c57c73e3c6f,Adam Butler,"Civil Engineering,Systems Engineering",Computer Science
+de79d7e8-a185-45b7-9e8f-e505d4602c67,Holly Wilson,"Environmental Engineering,Chemical Engineering",Mathematics
+34745cd9-17f3-4241-8681-72d142be4052,Amy Parker,"Industrial Engineering,Electrical Engineering",Economics
+12df74d7-28e2-46f0-89e0-e53f450dee18,Justin Lozano,"Systems Engineering,Biomedical Engineering,Environmental Engineering",Biology
+0d8ef9b6-558c-4d08-b251-c0888d19bdcc,Garrett Williams,"Electrical Engineering,Environmental Engineering,Chemical Engineering",Engineering
+9ded87a0-a06d-4ec6-92c3-4bb297576782,Bianca Chen,"Civil Engineering,Aerospace Engineering,Software Engineering",Psychology
+44f30df5-cfe5-4a29-9011-4b32db5d3244,Gary Johnson Jr.,"Civil Engineering,Mechanical Engineering,Systems Engineering",Economics
+c61a9255-dff1-407a-aeeb-53eba5dac47b,Kristen Smith,"Aerospace Engineering,Biomedical Engineering,Electrical Engineering",Literature
+47a5bd04-bf5d-4d6f-bfc5-7eb2499d253a,Tiffany Gray,"Civil Engineering,Biomedical Engineering",Computer Science
+f44f5cc8-42bb-4ae6-b8c6-95e5689a3700,Dawn Houston,"Civil Engineering,Industrial Engineering,Mechanical Engineering",Chemistry
+5d484e8c-8d01-446a-93d9-abc7c6ae2e68,Maria Miller,"Civil Engineering,Aerospace Engineering,Industrial Engineering",Engineering
+63105c78-0284-42f7-b641-71defa8972be,Christopher Smith,"Civil Engineering,Industrial Engineering,Software Engineering",Psychology
+afa46b2d-5cd4-4bfa-88e1-d9aaf7381a22,Katie Brown,"Civil Engineering,Systems Engineering,Chemical Engineering",Psychology
+494c40ad-5ac8-4ba4-8501-826ffe214ff1,Scott Burke,"Biomedical Engineering,Environmental Engineering,Chemical Engineering",Economics
+b6473a9c-357e-4572-a749-17693f0febb0,Sean Ford,"Mechanical Engineering,Environmental Engineering",Computer Science
+5e64b1d3-b2a9-4bc5-bdd5-833c0c4549e1,Daniel Jones,"Biomedical Engineering,Electrical Engineering,Environmental Engineering",Literature
+c209595f-f716-4ef5-8646-28597344a91d,Amy Ramirez,"Civil Engineering,Systems Engineering",Literature
+779860c5-58fe-4593-aeca-435011219fbb,Jennifer Martin,"Software Engineering,Aerospace Engineering,Biomedical Engineering",Mathematics
+d1a4c61c-c6c3-4107-9e1a-fd3127de4ac4,Sarah Hughes,"Electrical Engineering,Systems Engineering,Chemical Engineering",Mathematics
+b416ed87-9837-44ca-9dba-4b20199ea72b,Louis Vasquez,"Systems Engineering,Chemical Engineering",Computer Science
+a72d5d28-d5ed-4961-ac39-a820399c7f63,Jeffrey Smith,"Biomedical Engineering,Systems Engineering",History
+2b9ba9cc-2100-4d7d-a75b-0eb1653b5b63,Robert Williams,"Mechanical Engineering,Biomedical Engineering,Electrical Engineering",Literature
+061b07ac-6b0d-4810-92a4-4ccb860c4ba6,Christine Parker,"Mechanical Engineering,Systems Engineering,Chemical Engineering",Mathematics
+4116fd5e-9ea6-4d21-9686-5883a739b44e,Bobby Elliott,"Software Engineering,Aerospace Engineering,Chemical Engineering",History
+469d8803-9223-4020-a872-cf08a9d360b2,Alexander Monroe,"Software Engineering,Aerospace Engineering,Systems Engineering",Biology
+bc26513b-576d-4912-ae6d-578ef23981b4,Manuel Cunningham,"Mechanical Engineering,Biomedical Engineering,Chemical Engineering",Biology
+c1264dc7-926d-4b5f-b031-a3dc5198dfac,Monica Hernandez,"Aerospace Engineering,Industrial Engineering",Economics
+03f8658b-7193-4532-90be-7f4ab592d9fd,Tracy Spencer,"Civil Engineering,Industrial Engineering,Environmental Engineering",Economics
+6fdb0a91-03fc-4856-8d52-eb6fa35bfb19,Mitchell Sanchez,"Macroeconomics,Behavioral Economics,Public Economics",Mathematics
+b4c42422-0977-4252-b3b4-d0fb31f2e840,Krista Roberts,"Health Economics,Econometrics,Financial Economics",Computer Science
+f8a50e56-e998-4ef5-963d-40502d205a6b,Austin Sullivan,"Econometrics,Financial Economics,Labor Economics",Psychology
+4da5e845-4c13-474a-9397-d8671de34d5a,Michele Cook,"Econometrics,Microeconomics",Mathematics
+03a530c4-1efe-4d88-9725-79a26a7a5fcf,Jacob Chavez,"Financial Economics,Public Economics",Mathematics
+9b84d819-9e5c-4be6-94eb-1e6da21b67b2,Timothy Richards,"Econometrics,Financial Economics,Labor Economics",History
+0dbad148-1a20-4480-8540-4f05a7d74f41,Dominique Hansen,"Financial Economics,Behavioral Economics,Public Economics",Biology
+45e6fbb6-ea23-4388-8d23-c73fb261e805,Sean Simmons,"Financial Economics,Macroeconomics,Microeconomics",Psychology
+03121f48-f0fa-48fc-8238-386c12f10c44,Stephanie Wyatt,"Financial Economics,Microeconomics",Engineering
+047b2a19-00cb-46a0-a772-8af81631a6cc,Robert Walker,"Econometrics,Public Economics,Financial Economics",Chemistry
+d162faca-74d8-48a3-8ff0-03683de4b590,Shawn Barnes,"Health Economics,Financial Economics,Public Economics",Physics
+14052ea1-9abf-44b2-a549-1418447af410,Brandon Rasmussen,"Econometrics,Financial Economics,Microeconomics",Literature
+81a9fecb-58d7-4235-aa44-9ea9f5af9399,Benjamin Stewart,"Financial Economics,International Economics,Macroeconomics",Biology
+27033474-f4d4-4ac0-9b13-8148a90208e9,Elizabeth Berry,"Econometrics,Public Economics,Microeconomics",Computer Science
+b00c8b7b-ef6e-46cb-a154-7340f9451c69,Courtney Powers,"Health Economics,Financial Economics,Labor Economics",Biology
+621ba688-7f2b-428f-a873-c786b68a16bc,Holly Armstrong,"Health Economics,Public Economics",Biology
+0f05309f-e992-48ef-905d-eab603e1b2b9,Jennifer Hunt,"Health Economics,Macroeconomics,Development Economics",Biology
+6cd42f12-2901-48fc-a359-f907fb47f073,Ryan King,"Financial Economics,Public Economics,Microeconomics",Literature
+bb7d49ff-c350-436c-a8f3-fca42a5baaaa,Elizabeth Weaver,"Macroeconomics,Financial Economics,Labor Economics",Chemistry
+45e6953f-9ffc-4f04-92db-9ae536711e39,William Hill,"Econometrics,Behavioral Economics,Macroeconomics",Literature
+d6d8bb0e-f61c-4062-8d0a-a622de340f9c,Justin Sanchez,"Microeconomics,International Economics,Development Economics",Biology
+85f9c8d0-94cf-4579-8a93-65fa74570fac,Daniel Johnson,"Financial Economics,Behavioral Economics,Labor Economics",Psychology
+75e29e90-0ad2-4c3e-81de-a341303b3571,Darryl Everett,"Financial Economics,Behavioral Economics,Macroeconomics",Psychology
+f117bf0f-3619-4b6d-be05-bbba2198cd22,Mrs. Angela Simon,"Health Economics,International Economics",Mathematics
+050862ac-bfcf-48a7-b3cd-eb5b7ab13923,James Richardson,"Health Economics,Macroeconomics,Development Economics",Literature
+b323ffd1-2562-4f71-9c25-f1d1bfe5db89,Megan Sanchez,"Health Economics,International Economics",Economics
+e7dc6f4c-5b87-4eb7-95d9-c7790a367416,Christopher Bennett,"Macroeconomics,Econometrics,Financial Economics",Literature
+200d6d04-bede-4fcf-8576-025fddb8a652,Andrea Bentley,International Economics,Biology
+0900a511-79d7-48e2-ac3f-57c41272e0fa,Amber Turner,"Macroeconomics,International Economics,Behavioral Economics",Chemistry
+188a2a6b-1779-49c8-ba25-56a2e60cf199,Kimberly Brown,"Macroeconomics,Econometrics,Financial Economics",Engineering
+b140a220-8b08-4c26-aaf4-a2bb853aa907,Melissa Mcbride,"Health Economics,Financial Economics,Development Economics",Chemistry
+dd6b75a1-c2e3-418e-a4b9-01e0dfceac7c,Sandra Curry,"Health Economics,Econometrics,Microeconomics",History
+6d55bd2a-2141-45c4-ac9d-9b3721f89059,James Martin,"Financial Economics,Behavioral Economics",Chemistry
+795896d4-83d3-4bd7-8d7d-1658e4697c3e,Jennifer Stanton,"Health Economics,Development Economics",Literature
+7e41cbf3-5293-4399-baa5-60b6d97ba269,Victor Lee,"Health Economics,Econometrics,Development Economics",Physics
+b424adf5-107d-4c9b-be16-213b6dd9b67b,Justin Christian,"Macroeconomics,Behavioral Economics,Microeconomics",Literature
+39f0a26a-6f7d-407e-8600-e624bb24628a,Makayla Oneill,"Health Economics,Econometrics,International Economics",Engineering
+58916a75-9cf8-4547-8ae7-d67385a041ae,Keith Lopez,"Macroeconomics,International Economics,Labor Economics",Physics
+c94ef831-0d17-4be7-bc67-b7cc38867aa3,Ariana Phillips,"Health Economics,Microeconomics,Public Economics",Mathematics
+7f7acfc8-f7ac-4fde-9517-2e91b29c953e,Barbara Evans,"Health Economics,Financial Economics,Microeconomics",Computer Science
+3cfb96e4-e6ad-405e-8782-50dd6659784b,Sabrina Dickson,"Microeconomics,International Economics,Development Economics",Engineering
+2ee61c3a-94e9-41ec-9d9f-e70a2eac9333,Kimberly Gardner,"Microeconomics,Public Economics",Psychology
+1a1f6eae-ddd5-4781-980d-788fcf3fef46,Erin Hill,"Health Economics,Macroeconomics,Microeconomics",Physics
+f0eb5c7f-17b3-4d35-a20f-5b8ed852af3d,Nicholas Smith,"Financial Economics,Labor Economics",Biology
+b06b6ab0-242f-4e93-8656-9251401cf6ee,Kelly Lopez MD,"Macroeconomics,Financial Economics,Labor Economics",Literature
+87ce5760-4ebd-410b-aa27-0ab61f093407,Harold Zamora,"Macroeconomics,Development Economics,Microeconomics",Psychology
+c0d17b9c-a567-4c16-b9f4-cb6024d941ff,Lisa Erickson,"Microeconomics,Development Economics",Physics
+4fbada15-3c0a-4472-9994-942a598dd6fb,Phillip Watson,"Macroeconomics,Labor Economics",Biology
+55268abb-2ebd-40ef-8710-f693ddf9ebba,Lisa Lewis,"Financial Economics,International Economics,Labor Economics",Physics
+53dc777f-8683-480b-a5f1-1f21004b2709,Megan Roberts,"Health Economics,Microeconomics,Behavioral Economics",Biology
+09f2a821-cf49-4beb-9372-c0131c5f409c,Jonathan Parker,"Human-Computer Interaction,Artificial Intelligence,Computer Vision",Biology
+9f2d6986-6c36-4efd-acf0-027a674f929a,Dr. Sarah Gonzalez MD,"Artificial Intelligence,Cybersecurity,Blockchain",Computer Science
+8d515f4e-b5d9-4bb0-bb0e-3acf26eaa2a4,Edward Thompson,"Software Engineering,Artificial Intelligence,Quantum Computing",Mathematics
+488a535f-13ec-41ee-aa1a-63c7c3197a65,Terry Simmons,"Software Engineering,Blockchain",Psychology
+ece175e0-d2b3-4eea-94d1-1c307bb3bc14,Nicole Perry,"Human-Computer Interaction,Quantum Computing,Blockchain",Economics
+d7574ab9-864b-46cc-80d8-d4396efa08c4,Mariah Stein,"Blockchain,Cloud Computing",Biology
+eb6cbf4c-1162-452f-9682-2c71c8e2cf91,Jillian Shaffer,"Human-Computer Interaction,Software Engineering",Computer Science
+cab3c8d9-413c-4fa3-9e4c-e4baa5afdf1d,Jeffrey Armstrong,"Human-Computer Interaction,Computer Vision,Cloud Computing",Literature
+6eebd315-bd46-4a90-be96-8fe05a845e39,Richard Chang,"Machine Learning,Data Science",Physics
+20276865-c29c-4b55-be31-aa222df39bc0,Zachary Johnson,"Computer Vision,Quantum Computing,Data Science",History
+3411d5eb-570a-4191-9494-073626dd7341,Robert Hernandez,"Artificial Intelligence,Computer Vision,Blockchain",Chemistry
+212929cd-4442-41ec-b23d-071e60da6447,Jackson Carter,Human-Computer Interaction,Chemistry
+1998dd8a-135a-4064-958e-f2b3f1b7e8eb,Erin Fisher,"Cybersecurity,Blockchain",Psychology
+290c51ca-1389-4c94-94b9-2e110268bc1e,Scott Jenkins,"Cloud Computing,Data Science",History
+d4c13fa4-35e3-4c30-8cb6-f92e6342b697,Valerie Smith,"Human-Computer Interaction,Quantum Computing,Blockchain",Psychology
+c9a1edc3-6555-4882-adde-816986fea071,David Lane,"Cybersecurity,Quantum Computing,Cloud Computing",Physics
+3c39a463-cbab-432a-a7d7-373b8b0d728a,Jody Simmons,"Human-Computer Interaction,Artificial Intelligence,Software Engineering",Literature
+cd89bfd0-5a35-43d3-867c-dacf4a11742b,Bobby Russo,"Software Engineering,Machine Learning,Blockchain",Chemistry
+354bb4a6-81d6-4307-bf41-2292f9a164d3,James Edwards,"Artificial Intelligence,Blockchain",Biology
+6d72d2e2-369c-4f32-8a2d-94110025632e,Robert Sharp,"Machine Learning,Computer Vision,Quantum Computing",Engineering
+4a327b83-94d2-4e9f-b2b8-22632f8538a4,Ian Hardin,"Artificial Intelligence,Computer Vision,Data Science",Economics
+efa49584-f953-4d2c-94f4-0e27625e82ce,Courtney Jones,"Software Engineering,Blockchain,Cloud Computing",Economics
+74c11936-846e-46b0-8143-af21f9d2e983,Natalie Stephens,"Human-Computer Interaction,Software Engineering",Economics
+b27050a9-af87-4b65-8f9d-8a22461166e8,Javier Cervantes,"Artificial Intelligence,Quantum Computing,Cloud Computing",Computer Science
+fcff34ff-f29f-44b5-a6e5-a4d839efac23,Wendy Martinez,"Cloud Computing,Data Science",Mathematics
+4b7b8a4a-0b29-418c-8350-e0a164d82690,Steven Pearson,"Quantum Computing,Cloud Computing",Biology
+e66b070d-8728-4272-878c-c3a3774e3003,Christian Lloyd,"Software Engineering,Artificial Intelligence",Literature
+f4af3c42-3f99-4216-b81c-6a8811421761,Gregory Stevens,"Human-Computer Interaction,Software Engineering,Blockchain",Computer Science
+e85888ca-072c-4731-a3f2-6fe89e571752,Joseph Smith,"Computer Vision,Quantum Computing,Cloud Computing",Chemistry
+b32c5ef1-5215-4840-824b-15ac08a80c2b,Ryan Young,"Cybersecurity,Blockchain,Cloud Computing",Mathematics
+75234c14-71b7-4b06-ae5f-d10c53aeef07,Angela Lara,"Human-Computer Interaction,Cybersecurity",History
+eee2608b-75cf-48ec-b29a-ec78de185c44,Christopher Young,"Artificial Intelligence,Quantum Computing,Cloud Computing",Mathematics
+4305f067-5803-4fa7-9a38-5f64e9abc57b,Eric Lamb,"Machine Learning,Computer Vision,Data Science",Biology
+327ed910-6371-4b2c-93fa-b1648f2485dd,Brian Stevenson,"Software Engineering,Quantum Computing,Blockchain",Literature
+d728456b-b3a8-4c4c-b768-40ad0d106441,April Ho,"Software Engineering,Machine Learning",Engineering
+6ca83996-594c-4773-bcf4-a6ee23141da0,Steve Hernandez,"Computer Vision,Quantum Computing,Cloud Computing",Psychology
+621f83d2-26d9-48a7-a6f4-6ac430a395a2,Carolyn Singh,"Artificial Intelligence,Computer Vision,Data Science",Computer Science
+f66d0f8b-9c86-435e-97f3-dbf738b16708,Leslie Adams MD,"Software Engineering,Blockchain",Engineering
+88f35f22-813b-47e0-954a-e2aa38d00e6f,Dennis Butler,"Human-Computer Interaction,Blockchain,Data Science",Engineering
+403631f0-aa95-40be-998c-b6258e560e77,Jonathan Stephens,"Artificial Intelligence,Machine Learning,Cloud Computing",Economics
+67ed22c2-df56-47dc-9e21-8c56d892aed8,Robert Colon,"Cloud Computing,Data Science",Chemistry
+f257c247-0b20-4245-8ca7-d865f2343d7b,Shannon Hernandez,"Machine Learning,Cloud Computing",Biology
+4c4dbb73-c3b9-4ef0-ac37-847940789320,Tiffany Jones,"Human-Computer Interaction,Software Engineering,Data Science",Literature
+07a85775-cb4c-449b-83ed-7b6300256127,Emily Sanders,"Software Engineering,Artificial Intelligence,Cloud Computing",Computer Science
+644add12-e46d-4b76-8928-52ee0cac7fa4,Crystal Garcia,"Software Engineering,Artificial Intelligence,Data Science",Literature
+5abe7b19-4a94-4f51-93cd-99decb0cfa5c,Edward Randolph,"Cybersecurity,Computer Vision,Data Science",Economics
+08500c64-3571-45cd-9732-b1d5ef20d4c7,Gary Cannon,"Artificial Intelligence,Machine Learning,Cloud Computing",History
+8e34086e-af1f-4eb9-9f9b-56dc59800d07,Kelly Ryan,"Quantum Computing,Cybersecurity,Blockchain",Biology
+506204da-b635-4efb-bfa4-7a1ea90e2a5d,Michael Stanley,"Machine Learning,Computer Vision,Quantum Computing",Biology
+bb581918-9509-4af7-9d97-b8d5c46e2e8a,Frances Koch,"Human-Computer Interaction,Quantum Computing,Data Science",Biology
+2e6cd970-7ae6-427c-a97c-412e044e40df,Brian Montgomery,"Genetics,Cell Biology",Engineering
+07d80e90-091d-45c6-8403-eb0d0be4a9ea,Albert Hall,"Cell Biology,Ecology",Economics
+65b7fcc5-032f-4ef9-8e2b-2e2496c937ea,John Giles,"Neuroscience,Biochemistry,Ecology",Mathematics
+4516d716-3590-4368-b9ae-2e0713cd1e3f,Amy Stanley,"Neuroscience,Biochemistry,Conservation Biology",History
+4cee385e-c891-4a12-8885-b35d0e89f073,Jeremy Irwin,"Neuroscience,Biochemistry,Evolutionary Biology",Literature
+6ad7b24a-fdff-45f5-be82-17bef0da1222,Heather Hicks,"Neuroscience,Biochemistry,Microbiology",Engineering
+e56b5056-c668-4bd8-9a8a-d49b4108280e,Tyler Kane,"Biochemistry,Cell Biology,Microbiology",Chemistry
+cdede472-7136-41e8-886a-0b74cde49fbd,Jesse Blair,"Genetics,Conservation Biology",History
+1ca1157d-6277-4ddb-b652-ba9c04b4394f,Paula Nunez,"Marine Biology,Evolutionary Biology,Neuroscience",History
+201b426e-b7ee-4449-832b-165ba7ee7db5,Charles Crane,"Genetics,Cell Biology,Conservation Biology",Economics
+086629de-0155-4069-98d9-0f2b2ea004d0,Andrew Lopez,"Biochemistry,Cell Biology,Microbiology",Literature
+1d3489da-73e6-42d5-9a65-5bc8e5bf3003,Zachary Marks DDS,"Neuroscience,Marine Biology,Cell Biology",Physics
+f0907fff-c873-45c9-8a26-0814a508e796,Monica Lamb,"Biochemistry,Ecology,Evolutionary Biology",Mathematics
+b881e773-da7d-4a83-b780-37549df9c745,Wendy Carter,"Genetics,Evolutionary Biology,Microbiology",Engineering
+6e259e63-4f14-4ca8-8be1-23d0d4183001,Meghan Nolan,"Genetics,Biochemistry,Cell Biology",Economics
+4fd2190d-80c5-44d2-bfe3-696846304e27,Pamela Mathews,"Genetics,Marine Biology,Cell Biology",Literature
+d515ac0d-2374-440f-b0ee-f7a37d9f0435,Jordan Woodward,"Marine Biology,Microbiology",Chemistry
+9e17c4cc-54c9-4602-b287-652cd81b6e61,Alicia Evans,"Genetics,Evolutionary Biology,Neuroscience",Economics
+0dea840e-7fa4-4dce-84ac-9c6fe3d6d626,Robert Cooper,"Genetics,Biochemistry,Marine Biology",Mathematics
+84158c3c-2c91-4d2a-b187-8810496bd650,Mrs. Elizabeth Stewart MD,"Biochemistry,Ecology,Microbiology",Biology
+7641fb92-c566-4a79-a784-e856e4376291,Lisa Brown,"Ecology,Microbiology,Conservation Biology",Psychology
+600832ad-ed33-4837-b77c-9ca4716339d9,Casey Santos,"Genetics,Biochemistry,Marine Biology",Biology
+16d8bd34-c9c4-478f-a1e6-980b511e110f,Stacey Scott,"Biochemistry,Cell Biology,Conservation Biology",Computer Science
+b353dbec-3af9-4fcd-9689-192effb981c6,Wendy Sanchez,"Marine Biology,Cell Biology,Ecology",Literature
+78054faf-1079-4e55-8efa-440cbe1e3435,Gary Flowers,"Evolutionary Biology,Cell Biology,Microbiology",Mathematics
+1a10a38b-f28e-4050-b33c-7aeced07b226,Bernard Rodriguez,"Biochemistry,Conservation Biology",Literature
+7e191329-9a6f-49d0-9e86-6943743385f8,Kristie Zamora,"Neuroscience,Cell Biology",Chemistry
+39e943dd-d23e-474a-9867-17076af65a1f,Edward Lucero,"Neuroscience,Evolutionary Biology,Conservation Biology",Biology
+f419ca5b-7dce-4a06-99a4-e5d09def35fc,James Murray,"Neuroscience,Evolutionary Biology,Microbiology",Psychology
+9f84956c-e71e-4539-863a-02a1b98573c0,Fernando Cunningham,"Genetics,Biochemistry,Evolutionary Biology",Literature
+f6754ec4-f0ed-439d-95ab-499b83f36f24,Christopher Payne,"Marine Biology,Biochemistry",History
+02623c90-9b4e-4bcb-b687-1faa99f64fa2,Jennifer Jackson,"Neuroscience,Evolutionary Biology",Physics
+83fe3eba-4992-4273-a63e-c329e2924864,Paula Lewis,"Genetics,Biochemistry",History
+9c3b329f-3afa-406b-9970-d93b3110826c,Anita Olson,"Neuroscience,Microbiology,Conservation Biology",Literature
+725afd9b-32c8-4704-b926-eaa6391111d0,Adam Dawson,"Immunology,Cell Biology,Neuroscience",Psychology
+42bea7ad-2439-4ef0-8867-16e9d9238e52,Kaitlin Bentley,"Neuroscience,Biochemistry,Conservation Biology",History
+3e096e25-b89b-41e5-8059-5699e1f0ff1c,Jody Tyler,"Genetics,Evolutionary Biology,Conservation Biology",Biology
+592def82-d05b-4c3d-b57e-5d558c77d6fe,Jamie Forbes,"Neuroscience,Marine Biology,Cell Biology",Computer Science
+b90cf85b-7baf-436d-ac43-39547f87971d,Timothy Clarke,"Genetics,Immunology,Neuroscience",Chemistry
+f07fa4ed-1320-4a5e-8eda-2437ffe7fd46,Jacqueline Delacruz,"Marine Biology,Evolutionary Biology,Cell Biology",History
+03d433a3-b7a4-4b06-b6e4-6935b433fc40,Maurice Munoz,"Evolutionary Biology,Ecology",History
+e1e5d551-3ed2-49c9-b10f-f11551f895f3,Joshua Hill,"Marine Biology,Microbiology,Conservation Biology",Chemistry
+1147c9e8-4291-4a0a-a666-cd6787a57f07,Amy Foster,"Marine Biology,Ecology,Microbiology",Mathematics
+200062c4-d768-4eb0-a76b-b38f32a226b3,Tristan Lopez,"Neuroscience,Biochemistry",Literature
+5ef136d9-3fd0-4769-acab-5a93edfbaf85,Daniel Moody,"Biochemistry,Cell Biology,Conservation Biology",Engineering
+3415b3e3-0d6b-4895-ba5d-5a4a1acc1daa,Laura Gregory,"Genetics,Biochemistry",Biology
+cd47c0a4-86fe-4215-abcd-e3265445b4c4,Debra Grant,"Genetics,Biochemistry,Cell Biology",Mathematics
+f9f8360c-b81f-4533-9930-86397e85422c,Christian Tate,"Genetics,Biochemistry,Evolutionary Biology",Economics
+f81d215a-9884-4906-a763-5e24e0b54735,Adam White,"Neuroscience,Ecology",Engineering
+75d6db65-8a3e-43b2-9f18-ce55c833fb87,Stephen Rhodes,"Neuroscience,Evolutionary Biology,Ecology",Computer Science
+d5d8922c-5365-4d3b-ac1c-b1c75225fbdf,Melissa Decker,"Historiography,Creative Writing,Literary Criticism",Biology
+e8178e30-d1b3-4571-9381-997c2a210b72,Dr. April Greene MD,Comparative Literature,Mathematics
+51aadb4f-7552-48d3-97b4-aafd6ce382d6,Thomas Rowland,"Rhetoric,Narrative Theory,Historiography",Literature
+955b94d7-7cce-4ed1-a325-18a375d550e9,James Davis,"Rhetoric,Historiography,Drama",Chemistry
+e6b19018-f941-4b5c-a4cd-bba55173314f,Melissa Solis,"Narrative Theory,Comparative Literature,World Literature",Chemistry
+48cb6f48-2051-4738-9566-6bdba549afd1,Andrew Wilson,"Rhetoric,Novel,Drama",Engineering
+99373b60-1cdd-43b7-8adc-a11d50a7c117,Charles Smith,"Drama,Creative Writing",Mathematics
+e32c6629-9a2f-4c83-abfb-ca50b0334ef4,James Logan,"Rhetoric,Historiography,Drama",Computer Science
+c1f58d3d-8659-49ce-88ae-c093fec5eca6,Jeremy West,"Poetry,Drama",Psychology
+c4fa5da4-2193-4da8-ad25-a21c0ce7a5a3,Tracey Collins,"Rhetoric,Novel,Creative Writing",Psychology
+101d0458-fc04-490a-b148-ef364d68e82f,Karen Lambert,"World Literature,Comparative Literature,Creative Writing",Psychology
+86b2ec5c-2dc3-42e8-a4c4-1e36d49f69ad,Daniel Dillon,"Comparative Literature,Literary Criticism",Physics
+4746ed00-4a34-4a8a-a40b-53bdba8ba8af,Karen Strickland,"Novel,Comparative Literature,Literary Criticism",Economics
+de0ad88a-89f7-4717-9306-49bd94f7e021,Kristen Hill,"Historiography,Comparative Literature,Literary Criticism",Chemistry
+d1cbf6ae-3c88-41af-829e-8b2de800adb5,Robert Becker,"Rhetoric,World Literature,Drama",Literature
+3bbf1f51-e2fd-49e4-8ef9-f870d82d0cb4,Adam Clark,"Rhetoric,Literary Criticism",Physics
+4f6066f6-817a-4407-95a4-1324c6129703,Michael Hess,"Poetry,Creative Writing,Literary Criticism",Mathematics
+9744a03e-5703-44a4-aea3-58eddd4d7478,Michael Crawford,"Narrative Theory,Historiography",Computer Science
+3c9f81ad-e036-4141-9847-7830b8bc1a02,Maria Hill,"Novel,World Literature",Psychology
+fe44b514-9109-48fe-b956-8be36f528fb9,Erik Travis,"Rhetoric,Poetry,Creative Writing",Physics
+8689ecd6-b0d5-4b92-8629-b76a33fd5eee,Yvette Gonzalez,"Historiography,Comparative Literature,Creative Writing",Biology
+151681be-59a7-484a-8aca-8d2033ebc798,Keith Valentine,"Novel,Drama,World Literature",Psychology
+a8ff57d6-ee74-4a15-bcc3-4d62153cb1d1,Jose Tran,"Novel,Drama,Creative Writing",Literature
+11c47eff-11a5-416e-85ff-04ed29c3e599,Sharon Chaney,"World Literature,Historiography,Drama",Psychology
+78beef95-08da-4967-a76d-f7a1fdadbd28,Angela Reynolds,"Poetry,Historiography,Literary Criticism",Mathematics
+7c520e08-4e2e-429a-86ec-c672737d2254,Brandi Walsh,"World Literature,Historiography,Drama",Engineering
+b9db288a-18f0-44e7-a97c-b49a5b6ca7a8,David Hanson,"World Literature,Literary Criticism",Literature
+b21539a1-0ddf-499b-82dd-54b3a452605c,Jonathan Morrow,"Historiography,Creative Writing",History
+5d3d165d-9ae6-405f-a6ac-668875cceb05,Frank Jackson Jr.,"Rhetoric,Narrative Theory",Psychology
+2357c095-025d-42be-beb9-e056265a6a7b,Sarah Hill,"Rhetoric,Drama,Creative Writing",History
+ac8b9994-f92e-4ac4-800a-a858450cea79,Dakota Mcdonald,"Poetry,Comparative Literature,Creative Writing",Chemistry
+8f8a4b7a-e8f3-4210-8fbf-9cc2fd03b181,Emily Palmer,"Poetry,Historiography,Comparative Literature",Literature
+13815022-9a8a-42eb-9330-3cf47fc737f4,Robert Wiggins,"Rhetoric,Drama",Biology
+2e5bbd5e-9209-458b-af85-570f583e15f7,Kelly Howe,"Poetry,Literary Criticism",Economics
+fc5a58c1-871c-4e14-b130-05f9be4938d4,Heidi Hoover,"Novel,Comparative Literature,Creative Writing",Computer Science
+80fd7a65-6f5a-4d06-9bf0-54bd9b6d409e,Terry Miller,"Historiography,Literary Criticism",History
+e0dd7983-6f87-49ac-a43d-248778798485,Suzanne Robles,"World Literature,Comparative Literature,Drama",Computer Science
+3ca757f8-916d-4a7d-b352-a349e379e54f,Renee Holden,"Historiography,Drama,Literary Criticism",Computer Science
+7783e102-4fb4-45db-bdee-ffbd3410ac11,Jennifer Fisher,"Narrative Theory,Drama,Literary Criticism",Engineering
+4ab55071-163a-40ad-8a5d-c81e975c0cd5,Matthew Wilson,"Drama,Creative Writing,Literary Criticism",Mathematics
+a5807a15-4eeb-44c3-b65b-4253db15792f,Thomas Lam,"Rhetoric,Historiography,Comparative Literature",Psychology
+e1dc1163-b6c6-4324-89dd-af1e9f024373,Melinda Mckinney,"Rhetoric,Comparative Literature,Drama",Mathematics
+880ce85b-4a2b-4d3e-be4c-d43d27fb5629,Billy Dunn,"World Literature,Comparative Literature,Creative Writing",Biology
+c385be0c-acf2-4992-9b8a-0a02776b0b80,James Huerta,"Novel,Poetry,Literary Criticism",Computer Science
+3cc097de-9bb4-4b1b-9211-9720c227b2b8,Kenneth Vasquez,"Narrative Theory,Poetry,Novel",Mathematics
+c833e885-7cf7-41ac-bc3d-9fb45f616434,Jeremy Burke,"Narrative Theory,Poetry,Literary Criticism",Psychology
+c4fd1773-2e3a-4337-98b0-c1b04402b269,Jonathan Greene,"Narrative Theory,Historiography,World Literature",History
+52771d63-59ef-4155-82a1-56a898ad1f32,Adam Jackson,"Poetry,Historiography",Psychology
+6490a692-45ce-4494-94b3-fec735ce34ae,Carla Stevens,"Rhetoric,Narrative Theory,Poetry",Psychology
+b7348940-8a3c-4f08-bd17-7b80c3510e69,Devon Salas,"Narrative Theory,Comparative Literature,Drama",Biology
+3afaa288-ffc6-443f-b160-517f5166d62c,Jillian Anderson,"Organic Chemistry,Inorganic Chemistry",Engineering
+d7a3775e-368f-44f4-ad4c-bbafd80f8f79,Kimberly Lowe,"Physical Chemistry,Theoretical Chemistry,Inorganic Chemistry",Literature
+acb7ac70-2739-49e0-b65b-2444aee59ea4,Tracy Campbell,"Organic Chemistry,Biochemistry,Environmental Chemistry",Economics
+818936dd-1fbc-4ddd-b595-4c95240e4b69,Joy Riley,"Organic Chemistry,Physical Chemistry,Inorganic Chemistry",Computer Science
+da07286d-95a8-4c05-9b17-c8b3dede388e,Julian Anderson,"Biochemistry,Analytical Chemistry,Environmental Chemistry",Economics
+f12e7f55-48bd-4936-9a2c-74e866476ffa,Benjamin Jimenez,"Organic Chemistry,Physical Chemistry",Economics
+a3c4476c-1772-4195-adf5-addc4e369a7c,Joseph Webb PhD,"Materials Science,Theoretical Chemistry,Physical Chemistry",Physics
+232bf3aa-6872-46be-81f5-9a661f45eb28,Anthony Martinez,"Organic Chemistry,Physical Chemistry,Inorganic Chemistry",History
+4a7d2055-02ca-472b-b2cb-1398903a2c92,Victoria Whitney,"Organic Chemistry,Medicinal Chemistry",Psychology
+21d560d6-f2c8-4865-9b3f-144cdd7aaded,Heather Turner,"Organic Chemistry,Medicinal Chemistry",Physics
+8d7b2131-8af9-4ec7-8625-bd9b5e8f4674,Tyler Pham,"Materials Science,Medicinal Chemistry,Organic Chemistry",Computer Science
+bf04f10b-0f83-4a2e-856a-6057748781c5,Paul Davenport,"Materials Science,Polymer Science,Inorganic Chemistry",Literature
+d1648fb7-3ccb-4b61-816b-7fcaab5c3010,Tyler Cameron,"Analytical Chemistry,Medicinal Chemistry,Inorganic Chemistry",Mathematics
+a8467a43-5165-4e85-b8ee-084822e32248,Samuel Cox,"Physical Chemistry,Analytical Chemistry,Inorganic Chemistry",Economics
+69c205d5-3e65-4ea3-9189-8e49e99385ee,Jesse Hoover,"Biochemistry,Physical Chemistry",Computer Science
+2a65a4bc-48c0-4d68-bc3a-14491c500b4b,Timothy Chavez,"Organic Chemistry,Medicinal Chemistry,Inorganic Chemistry",Mathematics
+63852b27-b3d3-4ed1-ac28-be974924720c,Robert Fox,"Biochemistry,Analytical Chemistry,Medicinal Chemistry",Physics
+2495bd9d-ea53-4b27-9061-45a5c5f132a4,Shannon Perez,"Materials Science,Environmental Chemistry,Polymer Science",Engineering
+3a4dab0f-fae2-4e6d-842c-57a45c0fec5b,Frank Taylor,"Organic Chemistry,Environmental Chemistry,Analytical Chemistry",Mathematics
+75edccc9-d619-4c92-a892-88519c0c05d2,Carolyn Oliver,"Organic Chemistry,Biochemistry,Physical Chemistry",Economics
+e0be7b75-06ba-4238-9b1b-c960db0b274f,Kirsten Harris,"Organic Chemistry,Biochemistry,Environmental Chemistry",Literature
+0bf20d9c-0fc9-4c71-bfe6-1a7430b3b8a1,Tonya Harrison,"Materials Science,Environmental Chemistry,Physical Chemistry",Psychology
+f8d4314b-97b0-466b-8508-06134aa4c468,Aaron King,"Medicinal Chemistry,Physical Chemistry",Biology
+02e5e4d8-b3fa-460e-92b6-e2c4f43b0636,Christina James,"Polymer Science,Medicinal Chemistry,Physical Chemistry",Literature
+d581a623-16a1-40d2-84cf-67f86353e795,Clarence Tate,"Theoretical Chemistry,Medicinal Chemistry,Inorganic Chemistry",Literature
+fcaadf3b-58d2-46ed-af48-5dc0e658475d,Jason Bautista,"Theoretical Chemistry,Analytical Chemistry,Physical Chemistry",Mathematics
+98c740fe-de02-4059-a64d-5f5d8c6d7781,Juan Ramirez,"Organic Chemistry,Biochemistry,Inorganic Chemistry",Biology
+77d10b64-d465-4cfe-9db9-af1d95228b4f,Kelly Mccormick,"Biochemistry,Theoretical Chemistry",History
+6ae42931-3ad0-43af-802b-eac69dc0c8ee,Melissa Myers,"Organic Chemistry,Biochemistry,Physical Chemistry",Psychology
+7df34453-37e0-4851-87d0-d44f96a5b8a3,Julie Sweeney,"Environmental Chemistry,Theoretical Chemistry",Biology
+7dcd17c7-adbb-4c19-9444-84a178293333,Jacqueline Bell,"Polymer Science,Analytical Chemistry,Physical Chemistry",Literature
+08b3aced-2ebe-45d0-9f41-9fd3958e7bb7,Erik Esparza,"Theoretical Chemistry,Analytical Chemistry,Physical Chemistry",Psychology
+f1de3fe2-ae87-4bea-b36b-0b4f9f258bbb,Robin Obrien,"Materials Science,Biochemistry",Economics
+f79e3443-3c35-4f14-8354-5310749b3030,Danielle Contreras,"Physical Chemistry,Analytical Chemistry,Inorganic Chemistry",Psychology
+31e2e2b9-e05d-4f1c-aa23-9b81bbf6fbf8,Bailey Hansen,"Biochemistry,Polymer Science,Environmental Chemistry",Economics
+141c2688-10ff-4093-b3da-0a7b525bc89c,Shannon Taylor,"Organic Chemistry,Biochemistry",Computer Science
+58e9e2ea-8399-43a5-b3ec-63cc28977005,Jonathan Miller,"Biochemistry,Inorganic Chemistry",Mathematics
+a878a076-e0e4-4aff-8b27-179056f715fd,Gregory Craig,"Biochemistry,Environmental Chemistry,Physical Chemistry",Physics
+0837a8b0-6398-41c4-a5f5-3d4e9d9b9f86,Kimberly Hopkins,"Organic Chemistry,Physical Chemistry,Inorganic Chemistry",History
+f79b5aa3-4bea-4ebb-9209-f893991bf2fc,Michael Rogers,"Materials Science,Environmental Chemistry,Medicinal Chemistry",Biology
+05d04701-27ea-4f3b-8350-4d8a1f57ce03,Tyler Hernandez,"Analytical Chemistry,Medicinal Chemistry,Inorganic Chemistry",Engineering
+a5e24bd4-2570-4813-a46c-930e34e47590,Richard Ray,"Biochemistry,Medicinal Chemistry,Inorganic Chemistry",Engineering
+5c2641df-ed7d-44d5-906a-f56018a6abe0,John Johnson,"Organic Chemistry,Analytical Chemistry",Mathematics
+b567f884-1c43-4076-8f4f-170921e1cf02,Jose Kaufman,"Biochemistry,Theoretical Chemistry,Environmental Chemistry",History
+752ffe86-1986-4c2b-8886-633a4f698a6a,Tammy Lopez,"Organic Chemistry,Biochemistry,Inorganic Chemistry",History
+a318a8fd-6886-4a95-801e-ad479c75fe3d,Monica Curtis,"Environmental Chemistry,Polymer Science,Analytical Chemistry",Psychology
+82f01807-64f9-4021-90a3-23c61ec0e530,Roger Schmitt,"Materials Science,Analytical Chemistry",Physics
+ac15df81-3375-4690-952d-6f2d17a44e46,Heather Smith,"Materials Science,Analytical Chemistry,Medicinal Chemistry",Engineering
+cef07c9d-6f4c-4da9-b0f6-4eaea4de0662,Shirley Rhodes,"Polymer Science,Medicinal Chemistry,Inorganic Chemistry",Computer Science
+d12f36d5-dc39-41b3-aa5c-ab9750e2a072,David Ortiz,"Biochemistry,Theoretical Chemistry",Engineering
+10dc9387-3137-455f-a12d-0d9e48cb45fb,Christine Hanna,"Cultural History,Modern History,History of Science",Mathematics
+ade7a637-6dee-4c69-9cd8-2a60e04ab254,Matthew Kennedy,"Cultural History,Economic History,History of Science",Literature
+93883032-a0d7-437f-908d-aa4359ae9426,Lisa Martinez,"Modern History,World History",Economics
+3ff367d3-dd69-461a-9d4f-e9c498a8859c,Mr. Jeffrey Hamilton,"Modern History,Social History,History of Science",Psychology
+0e6bd717-9414-49f0-8829-3d393eaac5e7,James Paul,"Ancient History,Cultural History,History of Science",Economics
+1fee8930-1c95-4726-ad76-50cce10ce40c,Abigail Peterson,"Cultural History,Social History,Political History",Mathematics
+21301f22-5342-487e-84be-a77d837e6053,Eric Jones,"Medieval History,Military History,History of Science",Chemistry
+07086f21-ef3c-4f41-9028-40a0ff02a7ec,Kari Brock,"Modern History,World History,History of Science",Computer Science
+cda890e2-33f3-4f1d-b96e-9b96900f2b32,Bruce Velasquez,"Medieval History,Economic History,Military History",Computer Science
+ac507d63-10c5-47cb-af12-39c0edc22dd8,Susan Gibson,"Political History,History of Science",Physics
+3a0a9b83-0f5c-4823-b361-f21c72773c7f,Anthony Larson,"Medieval History,Social History,Military History",Mathematics
+4be23523-62c5-42c0-8a6e-a0c165526208,James Day,"Ancient History,Medieval History,Social History",Mathematics
+dbb1e7da-a1c1-4462-af0a-8a6259007c57,Jillian Williams,"Military History,World History",Physics
+99fd3e23-25cf-4ec9-808a-313db867fd37,Veronica Hess,"Cultural History,Social History,World History",Chemistry
+d967a688-af8a-427c-bbdf-6efeb5ffc21f,Joseph Myers,"Modern History,Political History,History of Science",Chemistry
+10a88a58-552a-41f2-b437-6f0c3cc71e87,Valerie Colon,"Ancient History,Cultural History,History of Science",Physics
+30c8f428-1ff4-43e1-a47b-9d9a0a675396,Matthew Walker,"Cultural History,Social History,Economic History",History
+962cbde9-daaf-431e-9e0a-4847a16df164,Natalie Moreno,"Social History,Political History,History of Science",Mathematics
+7088e0dd-8a20-4bae-9fd5-6f603594b12a,Jeffrey Lopez,Modern History,Physics
+0ee499f9-cd4d-4514-a3a8-8c4041eec193,Ronald Wilson,"Cultural History,Medieval History,Social History",Mathematics
+574598e9-cead-4064-bf43-28f2d73bef3c,Susan Smith,"Cultural History,Economic History",Physics
+63b5f94e-c253-4c42-a68f-103fb9e6a23b,Sean Harper,"Modern History,Military History,History of Science",Computer Science
+57c4d96a-b868-4e23-a3d5-09a491bca6d3,William West,"Social History,Political History",Literature
+ad0ca951-5706-4b5f-8655-309bc09957e7,Erin Allen,"Ancient History,Social History,World History",History
+15c4e572-930d-4730-90d4-dd05d634de5f,Preston Acosta,"Medieval History,World History,Military History",Psychology
+18da0046-8a4b-46b0-bf66-94a143fda82d,Jeff Willis,"Medieval History,Social History,World History",Literature
+2e348ffb-6ac0-417f-a1c6-0b445a9a0374,Jeremy Davis,"Medieval History,Political History,Military History",Chemistry
+265fa978-1aa3-46a1-9058-671c6c96a16d,Andrea Garcia,"Ancient History,Medieval History,History of Science",Physics
+9fd12ccf-0b11-41ce-a85b-73d292bc69d2,Lorraine Fitzpatrick,"Ancient History,Military History,World History",History
+057ccecd-1171-4b2a-89eb-f86770aa228f,Kim Humphrey,"Ancient History,Social History,Economic History",Engineering
+1630fe3d-e043-40f8-aa5c-44d91fb23c3b,Debra Nelson,"Medieval History,Social History,World History",History
+6b845b94-740e-4d33-8b35-3860d2c1e8a6,Rita Huffman,"Cultural History,Military History,History of Science",Chemistry
+5722bdca-2c1a-4465-9408-e1a18caeb37b,Teresa Watson,"Cultural History,Military History,Economic History",Biology
+0b577ac5-8a70-4d45-8bb9-b5b389ffcad9,John Harris PhD,"Medieval History,Political History,Military History",Biology
+12afcff3-a257-41a0-8dad-7bf1c68b4d80,Christian Lopez,"Cultural History,Medieval History,Political History",Physics
+d44d6983-0297-49b8-87fe-f14d45e453fc,Michelle Scott,"Social History,Economic History,World History",Psychology
+faaa3c4e-d753-4b89-bf69-5d3d581bcaa8,Anthony Nelson,"Ancient History,World History,History of Science",Computer Science
+6c77e4fc-362e-4c38-8e47-d4aa861685b7,Jesse Soto,"Military History,Political History,History of Science",Biology
+c776a3b8-5da3-4fdf-9965-90bb81a97713,Brittany Miles,"Ancient History,Medieval History,History of Science",Physics
+54fb7117-df00-42da-b670-f7b1f429ae07,Amy Lowe,"Cultural History,Modern History,Political History",History
+ecc4ce4f-fdf3-45dd-b1e1-5b30e8180273,Alice Stanton,"Medieval History,World History",Mathematics
+63e59d7b-a1e2-4a83-9b5a-917ff41d7f6a,John Yang,"Ancient History,Social History,History of Science",Mathematics
+6e415ae6-31c1-4cc6-b5bc-9d6c636322e5,Denise Henry MD,"Ancient History,Cultural History,Economic History",Literature
+058a2b32-b255-41bd-9ce4-c702d5dea0a6,Tracy Morris,"Ancient History,Cultural History",Psychology
+db65c75e-685b-4b48-b694-6e2dbe9bb868,Amber Jackson,"Cultural History,Economic History,Modern History",Literature
+42497640-5fdd-4fde-b8a1-7567678cef2a,Deborah Mata,"Cultural History,Military History",Mathematics
+91316e91-d229-47f9-8fe2-ab7c535a1a99,Marc Davis,"Ancient History,Cultural History,Economic History",Engineering
+9412206d-0527-4ad4-a7a3-a35f313df651,Gary Oliver,"Ancient History,Social History,Political History",History
+093d9812-4099-4e5f-bce0-d032b56a5f14,Mark Armstrong,Economic History,Psychology
+9e5a7cd4-4b54-4586-81dc-f7bbb6ee0828,Steven Boyer,"Medieval History,Political History,World History",Psychology
